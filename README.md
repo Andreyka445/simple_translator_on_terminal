@@ -12,10 +12,12 @@ cd simple_translator_on_terminal
 
 # Установка зависимостей
 
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 # Использование
-```python translator.py
+```
+python translator.py
 ```
 Теперь введите текст, который нужно перевести
 
