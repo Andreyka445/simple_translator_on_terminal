@@ -1,3 +1,4 @@
+[![maxresdefault.jpg](https://i.postimg.cc/tJrvrm5w/maxresdefault.jpg)](https://postimg.cc/0KwCjnh0)
 # simple_translator_on_terminal
  Простой переводчитк прямо в терминале с использованием гугле транслейтор
  # Установка
