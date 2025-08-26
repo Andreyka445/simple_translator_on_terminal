@@ -13,17 +13,12 @@ cd simple_translator_on_terminal
 # Установка зависимостей
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 # Использование
-```
-pip3 install googletrans==4.0.0-rc1
-```
-
-or
 
 ```
-python simple_translator.py
+python3 simple_translator.py
 
 ```
 Теперь введите текст, который нужно перевести
