@@ -18,9 +18,11 @@ pip install -r requirements.txt
 # Использование
 ```
 pip3 install googletrans==4.0.0-rc1
+```
 
 or
 
+```
 python simple_translator.py
 
 ```
