@@ -3,17 +3,17 @@ from googletrans import Translator
 def main():
     print("🐍 самый простой переводчик")
     print("чтобы выйти напиши 'exit'")
+    
+    translator = Translator()
 
-translator = Translator()
-
-while True:
-   text = input("\nсюда текст, который хочешь перевести: ").strip()
+    while True:
+        text = input("\nсюда текст, который хочешь перевести: ").strip()
         
         if text.lower() in ['exit', 'выход', 'quit']:
             print("пака! 👋")
             break
             
-            if not text:
+        if not text:
             continue
             
         try:
@@ -25,4 +25,3 @@ while True:
 
 if __name__ == "__main__":
     main()
-  
