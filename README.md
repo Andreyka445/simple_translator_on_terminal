@@ -1,0 +1,1 @@
+# simple_translator_on_terminal
