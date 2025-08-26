@@ -3,10 +3,12 @@
  # Установка
  Клонируйте репо
 
- ``bash
+ ```bash
 git clone https://github.com/Andreyka445/simple_translator_on_terminal.git
-cd simple-translator
-``
+```
+```
+cd simple_translator_on_terminal
+```
 
 # Установка зависимостей
 
