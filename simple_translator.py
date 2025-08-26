@@ -5,8 +5,9 @@ def main():
     print("чтобы выйти напиши 'exit'")
 
 translator = Translator()
-    while True:
-        text = input("\nсюда текст, который хочешь перевести: ").strip()
+
+while True:
+   text = input("\nсюда текст, который хочешь перевести: ").strip()
         
         if text.lower() in ['exit', 'выход', 'quit']:
             print("пака! 👋")
