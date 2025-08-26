@@ -60,7 +60,7 @@ def main():
             print(f"🎯 перевод на {dest_lang_name}: {result.text}")
                 
         except Exception as e:
-            print(f"❌ еррор: {e}")
+            print(f"❌ еррор:")
 
 if __name__ == "__main__":
     main()
