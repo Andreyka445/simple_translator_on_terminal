@@ -29,6 +29,8 @@ python3 simple_translator.py
 
 # Устанавливаем переводчик в Termux
 
+___Устанавливаем pyton3___
+
 ```
 pkg install python3
 ```
@@ -36,7 +38,7 @@ pkg install python3
 pkg instal pyton-pip
 ```
 
- Клонируйте репо
+ ___Клонируем репо___
 
  ```bash
 git clone https://github.com/Andreyka445/simple_translator_on_terminal.git
@@ -45,12 +47,12 @@ git clone https://github.com/Andreyka445/simple_translator_on_terminal.git
 cd simple_translator_on_terminal
 ```
 
-# Установка зависимостей
+___Установка зависимостей___
 
 ```
 pip3 install -r requirements.txt
 ```
-# Использование
+___Используем___
 
 ```
 python3 simple_translator.py
