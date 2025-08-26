@@ -19,7 +19,6 @@ pip3 install -r requirements.txt
 
 ```
 python3 simple_translator.py
-
 ```
 Теперь введите текст, который нужно перевести
 
