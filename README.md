@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```
 # Использование
 ```
-python translator.py
+python simple_translator.py
 ```
 Теперь введите текст, который нужно перевести
 
